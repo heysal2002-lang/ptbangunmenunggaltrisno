@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
@@ -41,9 +42,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
             <!-- Brand Logo / Name -->
             <a href="#" class="flex items-center gap-3 group">
-                <div class="w-10 h-10 bg-gradient-to-br from-gold to-yellow-600 rounded-lg flex items-center justify-center font-heading font-extrabold text-navy-900 text-xl shadow-md group-hover:scale-105 transition-transform">
-                    BMT
-                </div>
+                <img src="logo.jpg" alt="Logo PT Bangun Manunggal Trisno" class="w-10 h-10 object-cover rounded-lg shadow-md group-hover:scale-105 transition-transform bg-white">
                 <div class="flex flex-col">
                     <span class="font-heading font-bold text-lg tracking-wide leading-tight text-white group-hover:text-gold transition-colors">PT BANGUN MANUNGGAL TRISNO</span>
                     <span class="text-[10px] text-slate-400 tracking-wider uppercase">General Contractor & Supplier</span>
@@ -95,8 +94,8 @@
 
     <!-- 1. Bagian Utama / Hero Section -->
     <section id="home" class="relative min-h-screen pt-20 flex items-center justify-center bg-navy-900 overflow-hidden">
-        <!-- Background Overlay & Image -->
-        <div class="absolute inset-0 z-0 opacity-25 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1541888946425-d0fbb186a5b3?q=80&w=1920&auto=format&fit=crop');"></div>
+        <!-- Background Overlay -->
+        <div class="absolute inset-0 z-0 opacity-20 bg-cover bg-center" style="background-image: url('sakura-java.jpg');"></div>
         <div class="absolute inset-0 bg-gradient-to-t from-navy-900 via-navy-900/80 to-transparent z-0"></div>
 
         <div class="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center py-24">
@@ -152,7 +151,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- Highlight Feature Card / Image Placeholder -->
+
                 <div class="relative">
                     <div class="rounded-2xl overflow-hidden shadow-2xl bg-navy-900 text-white p-8 sm:p-10 relative">
                         <div class="absolute top-0 right-0 p-8 opacity-10">
@@ -272,96 +271,90 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Portfolio Item 1 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
-                    <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src=<img width="2251" height="1688" alt="Sakura" src="https://github.com/user-attachments/assets/171a5f30-1057-441d-856f-c50b14aa87ca" />
-"" alt="Revitalisasi PT Sakura Java Indonesia" class="w-full h-full object-cover">
+                    <div class="h-56 bg-slate-800 relative overflow-hidden">
+                        <img src="sakura-java.jpg" alt="Revitalisasi PT Sakura Java Indonesia" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Cikarang, EJIP</span>
                     </div>
                     <div class="p-6">
-                        <h3 class="font-heading font-bold text-lg text-navy-900 mb-2">Revitalisasi Infrastruktur & Atap</h3>
+                        <h3 class="font-heading font-bold text-lg text-navy-900 mb-2">Revitalisasi Infrastruktur Jalan</h3>
                         <p class="text-xs text-gold font-semibold uppercase tracking-wider mb-3">PT. Sakura Java Indonesia</p>
                         <p class="text-slate-600 text-sm leading-relaxed">
-                            Pengerjaan revitalisasi jalan kawasan industri, perbaikan beton, dan penggantian atap loading dock pabrik.
+                            Pengerjaan revitalisasi jalan kawasan industri, perbaikan beton, dan pengecoran area pabrik.
                         </p>
                     </div>
                 </div>
 
                 <!-- Portfolio Item 2 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
-                    <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="<img width="2251" height="1688" alt="Brin" src="https://github.com/user-attachments/assets/4ecc69e2-27da-4042-bcd1-c7eeb04d8bd3" />
-" alt="Project BRIN Serpong" class="w-full h-full object-cover">
+                    <div class="h-56 bg-slate-800 relative overflow-hidden">
+                        <img src="brin-serpong.jpg" alt="Project BRIN Serpong" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Serpong, Tangerang</span>
                     </div>
                     <div class="p-6">
                         <h3 class="font-heading font-bold text-lg text-navy-900 mb-2">Pematangan Lahan & Bunker</h3>
                         <p class="text-xs text-gold font-semibold uppercase tracking-wider mb-3">BRIN Serpong</p>
                         <p class="text-slate-600 text-sm leading-relaxed">
-                            Pekerjaan Cut and Fill, pondasi turap batu kali penahan tanah, serta pembuatan bunker khusus.
+                            Pekerjaan Cut and Fill, pondasi penahan tanah, serta pengerjaan pembuatan bunker khusus.
                         </p>
                     </div>
                 </div>
 
                 <!-- Portfolio Item 3 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
-                    <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="<img width="2251" height="1688" alt="Smk" src="https://github.com/user-attachments/assets/b9d6c3d5-5e5e-44e4-85fa-8dce9a849f70" />
-" alt="SMKN 12 Legok" class="w-full h-full object-cover">
+                    <div class="h-56 bg-slate-800 relative overflow-hidden">
+                        <img src="smkn-12.jpg" alt="SMKN 12 Legok" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Legok, Kab. Tangerang</span>
                     </div>
                     <div class="p-6">
                         <h3 class="font-heading font-bold text-lg text-navy-900 mb-2">Revitalisasi Gedung Praktik</h3>
                         <p class="text-xs text-gold font-semibold uppercase tracking-wider mb-3">SMKN 12 Kab. Tangerang</p>
                         <p class="text-slate-600 text-sm leading-relaxed">
-                            Design & Building Ruang Praktik Siswa, pengerjaan interior, serta fasilitas pendukung sanitasi.
+                            Design & Building Ruang Praktik Siswa dan fasilitas toilet pendukung.
                         </p>
                     </div>
                 </div>
 
                 <!-- Portfolio Item 4 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
-                    <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="<img width="2251" height="1688" alt="Ajinomoto" src="https://github.com/user-attachments/assets/6e977351-35b2-48df-aa67-116ed3c1c594" />
-" alt="Ajinomoto Karawang" class="w-full h-full object-cover">
+                    <div class="h-56 bg-slate-800 relative overflow-hidden">
+                        <img src="ajinomoto.jpg" alt="Ajinomoto Karawang" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Karawang Barat</span>
                     </div>
                     <div class="p-6">
                         <h3 class="font-heading font-bold text-lg text-navy-900 mb-2">Konstruksi STP & Infrastruktur</h3>
                         <p class="text-xs text-gold font-semibold uppercase tracking-wider mb-3">PT. Ajinomoto Indonesia</p>
                         <p class="text-slate-600 text-sm leading-relaxed">
-                            Pengerjaan struktur penampungan STP (Sewage Treatment Plant) dan infrastruktur pendukung pabrik.
+                            Pengerjaan struktur penampungan STP (Sewage Treatment Plant) dan fasilitas infrastruktur pabrik.
                         </p>
                     </div>
                 </div>
 
                 <!-- Portfolio Item 5 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
-                    <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="<img width="2251" height="1688" alt="Mandom" src="https://github.com/user-attachments/assets/99e71341-722e-428a-b889-b0524308001f" />
-" alt="PT Mandom MM2100" class="w-full h-full object-cover">
+                    <div class="h-56 bg-slate-800 relative overflow-hidden">
+                        <img src="mandom.jpg" alt="PT Mandom MM2100" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Cibitung, MM2100</span>
                     </div>
                     <div class="p-6">
                         <h3 class="font-heading font-bold text-lg text-navy-900 mb-2">Pekerjaan Jalan & Pile Cap</h3>
                         <p class="text-xs text-gold font-semibold uppercase tracking-wider mb-3">PT. Mandom Indonesia</p>
                         <p class="text-slate-600 text-sm leading-relaxed">
-                            Konstruksi fondasi pile cap gedung pabrik baru, area parkir, serta lanskap fasilitas sementara.
+                            Konstruksi fondasi pile cap gedung pabrik baru, pekerjaan pematangan jalan, dan saluran.
                         </p>
                     </div>
                 </div>
 
                 <!-- Portfolio Item 6 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
-                    <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="<img width="1195" height="896" alt="Krakatau" src="https://github.com/user-attachments/assets/87d9f99e-a2bd-46df-9d99-147fbccf7fa9" />
-" alt="Dermaga Cigading" class="w-full h-full object-cover">
+                    <div class="h-56 bg-slate-800 relative overflow-hidden">
+                        <img src="cigading.jpg" alt="Dermaga Cigading" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Serang, Banten</span>
                     </div>
                     <div class="p-6">
                         <h3 class="font-heading font-bold text-lg text-navy-900 mb-2">Struktur Sipil Dermaga</h3>
                         <p class="text-xs text-gold font-semibold uppercase tracking-wider mb-3">Dermaga Cigading (PT Krakatau Eng.)</p>
                         <p class="text-slate-600 text-sm leading-relaxed">
-                            Pengerjaan struktur beton galian, bekisting, pengecoran, serta finishing area fasilitas dermaga.
+                            Pengerjaan struktur beton, fasilitas dermaga, serta pekerjaan konstruksi lapangan pendukung.
                         </p>
                     </div>
                 </div>
@@ -521,9 +514,7 @@
     <footer class="bg-navy-900 text-slate-400 py-12 border-t border-slate-800 text-sm">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-6">
             <div class="flex items-center gap-3">
-                <div class="w-8 h-8 bg-gold rounded flex items-center justify-center font-heading font-extrabold text-navy-900 text-sm">
-                    BMT
-                </div>
+                <img src="logo.jpg" alt="Logo BMT" class="w-8 h-8 object-cover rounded bg-white">
                 <span class="text-white font-heading font-bold tracking-wide">PT BANGUN MANUNGGAL TRISNO</span>
             </div>
             <p class="text-center sm:text-right text-xs text-slate-500">
@@ -532,7 +523,7 @@
         </div>
     </footer>
 
-    <!-- Fixed Floating WhatsApp Button for Mobile & Desktop -->
+    <!-- Fixed Floating WhatsApp Button -->
     <a href="https://wa.me/6281284186229?text=Halo%20PT%20Bangun%20Manunggal%20Trisno,%20saya%20ingin%20konsultasi%20mengenai%20proyek%20konstruksi." 
        target="_blank" 
        class="fixed bottom-6 right-6 bg-emerald-500 text-white w-14 h-14 rounded-full flex items-center justify-center shadow-2xl hover:bg-emerald-600 hover:scale-110 transition-all z-50 group">
@@ -551,7 +542,6 @@
             mobileMenu.classList.toggle('hidden');
         });
 
-        // Close menu on link click
         document.querySelectorAll('#mobile-menu a').forEach(link => {
             link.addEventListener('click', () => {
                 mobileMenu.classList.add('hidden');
