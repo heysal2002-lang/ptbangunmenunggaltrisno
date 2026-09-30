@@ -347,7 +347,8 @@
                 <!-- Portfolio Item 6 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
                     <div class="h-56 bg-slate-800 relative overflow-hidden">
-                        <img src="cigading.jpg" alt="Dermaga Cigading" class="w-full h-full object-cover">
+                        <img src="<img width="1195" height="896" alt="krakatau" src="https://github.com/user-attachments/assets/442b4a3c-9d49-4f3d-839f-753abb69445c" />
+" alt="Dermaga Cigading" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Serang, Banten</span>
                     </div>
                     <div class="p-6">
