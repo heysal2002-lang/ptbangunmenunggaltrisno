@@ -273,7 +273,8 @@
                 <!-- Portfolio Item 1 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
                     <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=800&auto=format&fit=crop" alt="Revitalisasi PT Sakura Java Indonesia" class="w-full h-full object-cover">
+                        <img src=<img width="2251" height="1688" alt="Sakura" src="https://github.com/user-attachments/assets/171a5f30-1057-441d-856f-c50b14aa87ca" />
+"" alt="Revitalisasi PT Sakura Java Indonesia" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Cikarang, EJIP</span>
                     </div>
                     <div class="p-6">
@@ -288,7 +289,8 @@
                 <!-- Portfolio Item 2 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
                     <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="https://images.unsplash.com/photo-1590496793929-36417d3117de?q=80&w=800&auto=format&fit=crop" alt="Project BRIN Serpong" class="w-full h-full object-cover">
+                        <img src="<img width="2251" height="1688" alt="Brin" src="https://github.com/user-attachments/assets/4ecc69e2-27da-4042-bcd1-c7eeb04d8bd3" />
+" alt="Project BRIN Serpong" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Serpong, Tangerang</span>
                     </div>
                     <div class="p-6">
@@ -303,7 +305,8 @@
                 <!-- Portfolio Item 3 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
                     <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=800&auto=format&fit=crop" alt="SMKN 12 Legok" class="w-full h-full object-cover">
+                        <img src="<img width="2251" height="1688" alt="Smk" src="https://github.com/user-attachments/assets/b9d6c3d5-5e5e-44e4-85fa-8dce9a849f70" />
+" alt="SMKN 12 Legok" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Legok, Kab. Tangerang</span>
                     </div>
                     <div class="p-6">
@@ -318,7 +321,8 @@
                 <!-- Portfolio Item 4 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
                     <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=800&auto=format&fit=crop" alt="Ajinomoto Karawang" class="w-full h-full object-cover">
+                        <img src="<img width="2251" height="1688" alt="Ajinomoto" src="https://github.com/user-attachments/assets/6e977351-35b2-48df-aa67-116ed3c1c594" />
+" alt="Ajinomoto Karawang" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Karawang Barat</span>
                     </div>
                     <div class="p-6">
@@ -333,7 +337,8 @@
                 <!-- Portfolio Item 5 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
                     <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=800&auto=format&fit=crop" alt="PT Mandom MM2100" class="w-full h-full object-cover">
+                        <img src="<img width="2251" height="1688" alt="Mandom" src="https://github.com/user-attachments/assets/99e71341-722e-428a-b889-b0524308001f" />
+" alt="PT Mandom MM2100" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Cibitung, MM2100</span>
                     </div>
                     <div class="p-6">
@@ -348,7 +353,8 @@
                 <!-- Portfolio Item 6 -->
                 <div class="bg-slate-50 rounded-2xl overflow-hidden border border-slate-200 shadow-sm hover:shadow-lg transition-all">
                     <div class="h-48 bg-slate-800 relative overflow-hidden">
-                        <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=800&auto=format&fit=crop" alt="Dermaga Cigading" class="w-full h-full object-cover">
+                        <img src="<img width="1195" height="896" alt="Krakatau" src="https://github.com/user-attachments/assets/87d9f99e-a2bd-46df-9d99-147fbccf7fa9" />
+" alt="Dermaga Cigading" class="w-full h-full object-cover">
                         <span class="absolute top-4 left-4 bg-navy-900/90 text-gold text-xs px-3 py-1 rounded-full font-semibold">Serang, Banten</span>
                     </div>
                     <div class="p-6">
